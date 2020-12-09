@@ -1,0 +1,58 @@
+{
+  "fitness": [ 
+  {
+        "nam": "Bench Press",
+        "bp": "Chest",
+        "ExerciseType" : "Barbell",
+        "Difficulty" : "Moderate",
+        "Reps" : 8,
+        "Sets" : 4,
+        "SiteURL" : "https://stronglifts.com/bench-press/"
+   },
+   {
+        
+        
+        "nam": "Deadlift",
+        "bp": "Back",
+        "ExerciseType" : "Barbell",
+        "Difficulty" : "Hard",
+        "Reps" : 5,
+        "Sets" : 5,
+        "SiteURL" : "https://stronglifts.com/deadlift/#more-13334"
+    },
+    {
+        
+        
+        "nam": "Squat",
+        "bp": "Legs",
+        "ExerciseType" : "Barbell",
+        "Difficulty" : "Hard",
+        "Reps" : 8,
+        "Sets" : 4,
+        "SiteURL" : "https://stronglifts.com/squat/#more-13945"
+     },
+     {
+        
+        "nam": "Bicep Curl",
+        "bp": "Bicep",
+        "ExerciseType" : "Dumbbell",
+        "Difficulty" : "Easy",
+        "Reps" : 12,
+        "Sets" : 4,
+        "SiteURL" : "https://www.verywellfit.com/how-to-do-the-biceps-arm-curl-3498604"
+        
+     },
+     {
+        
+        "nam": "Tricep Extension", 
+        "bp": "Tricep",
+        "ExerciseType" : "EZbar",
+        "Difficulty" : "Easy",
+        "Reps" : 12,
+        "Sets" : 4,
+        "SiteURL" : "https://www.coachmag.co.uk/tricep-exercises/6053/how-to-do-an-overhead-dumbbell-tricep-extension"
+    }
+    ],
+    "status": "OK"
+   }
+    
