@@ -5,8 +5,8 @@
         "bp": "Chest",
         "ExerciseType" : "Barbell",
         "Difficulty" : "Moderate",
-        "Reps" : 8,
-        "Sets" : 4,
+        "Reps" : "8",
+        "Sets" : "4",
         "SiteURL" : "https://stronglifts.com/bench-press/",
         "Image" : "https://www.creativefabrica.com/wp-content/uploads/2019/10/01/Bench-press-bodybuilding-gym-icon-by-Hoeda80-580x386.jpg"
    },
@@ -17,8 +17,8 @@
         "bp": "Back",
         "ExerciseType" : "Barbell",
         "Difficulty" : "Hard",
-        "Reps" : 5,
-        "Sets" : 5,
+        "Reps" : "5",
+        "Sets" : "5",
         "SiteURL" : "https://stronglifts.com/deadlift/#more-13334",
         "Image" : "https://cdn1.vectorstock.com/i/thumb-large/39/25/powerlifting-successful-attempt-deadlift-vector-28853925.jpg"
     },
@@ -29,8 +29,8 @@
         "bp": "Legs",
         "ExerciseType" : "Barbell",
         "Difficulty" : "Hard",
-        "Reps" : 8,
-        "Sets" : 4,
+        "Reps" : "8",
+        "Sets" : "4",
         "SiteURL" : "https://stronglifts.com/squat/#more-13945",
       "Image" : "https://images.assetsdelivery.com/compings_v2/nixken/nixken1603/nixken160300103.jpg"
      },
@@ -40,8 +40,8 @@
         "bp": "Bicep",
         "ExerciseType" : "Dumbbell",
         "Difficulty" : "Easy",
-        "Reps" : 12,
-        "Sets" : 4,
+        "Reps" : "12",
+        "Sets" : "4",
         "SiteURL" : "https://www.verywellfit.com/how-to-do-the-biceps-arm-curl-3498604",
        "Image" : "https://static.vecteezy.com/system/resources/thumbnails/000/551/200/small/biceps_010.jpg"
         
@@ -52,8 +52,8 @@
         "bp": "Tricep",
         "ExerciseType" : "EZbar",
         "Difficulty" : "Easy",
-        "Reps" : 12,
-        "Sets" : 4,
+        "Reps" : "12",
+        "Sets" : "4",
         "SiteURL" : "https://www.coachmag.co.uk/tricep-exercises/6053/how-to-do-an-overhead-dumbbell-tricep-extension",
        "Image" : "https://cdn5.vectorstock.com/i/thumb-large/58/89/triceps-kickback-icon-vector-30085889.jpg"
     }
